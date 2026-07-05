@@ -1,0 +1,7 @@
+gradio
+edge-tts
+pydub
+huggingface_hub
+google-generativeai
+pyTelegramBotAPI
+
